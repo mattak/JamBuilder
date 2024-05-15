@@ -1,0 +1,12 @@
+{
+    "name": "jp.try20.jambuilder",
+    "displayName": "JamBuilder",
+    "author": { "name": "TRY20, Inc.", "url": "https://try20.jp/" },
+    "version": "0.0.1",
+    "unity": "2022.1",
+    "description": "Easy builder for non unity users",
+    "keywords": [ "build", "CI", "CD" ],
+    "license": "MIT",
+    "category": "Build",
+    "dependencies": {}
+}
